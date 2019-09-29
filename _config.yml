@@ -2,7 +2,7 @@
 title: Tom Hockett
 description: Get at me
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://tomhockett.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Tom Hockett
