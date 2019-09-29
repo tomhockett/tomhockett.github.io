@@ -1,6 +1,6 @@
 # tomhocket.dev
 
-This is my personal site on the web: [Find Me Here](https://tomhockett.dev)
+This is my personal site on the web: [Find Me Here](https://tomhockett.github.io/)
 
 ## Built with Jekyll and forking the Particle Jekyll Theme
 
