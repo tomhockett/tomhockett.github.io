@@ -77,8 +77,8 @@ document.addEventListener("DOMContentLoaded", function () {
       "detect_on": "canvas",
       "events": {
         "onhover": {
-          "enable": false,
-          "mode": "grab"
+          "enable": true,
+          "mode": "bubble"
         },
         "onclick": {
           "enable": true,
@@ -95,9 +95,9 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         "bubble": {
           "distance": 400,
-          "size": 40,
+          "size": 7,
           "duration": 2,
-          "opacity": 8,
+          "opacity": 2,
           "speed": 3
         },
         "repulse": {
